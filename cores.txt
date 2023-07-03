@@ -1,0 +1,17 @@
+font:
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Dancing+Script&family=Josefin+Sans:ital,wght@1,300&display=swap');
+
+font-family: 'Caveat', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Josefin Sans', sans-serif;
+
+
+
+cores
+
+#007539
+#4AF79D
+#00F576
+#23754B
+#00C25E

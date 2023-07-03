@@ -1,0 +1,5 @@
+Degrade
+
+background-image:linear-gradient (to bottom) - (cor de cima para baixo)
+
+ex: (to bottom) black - de cima para baixo a cor preta

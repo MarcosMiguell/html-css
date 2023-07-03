@@ -1,0 +1,30 @@
+Box-Level
+
+box-sizing: border-box;
+
+background-color: aqua;
+		
+backgroud-color: --
+height: 300px;
+width: 300px; 
+border-width: 20px;
+border-style: solid;
+border-color: blueviolet;
+
+padding-top: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+
+padding: 10px 10px 10px 10px; ou so 10px que vão em todos
+
+padding: 10px 20px; - 10px em cima e em baixo e 20px na esquerda e direita
+
+margin: auto; - elemento no meio da tela
+
+border-radius: 000px; - bordar circular
+
+flex-wrap:wrap; (caixa responsiva, irá quebrar as caixas para baixo)
+
+
+

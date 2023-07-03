@@ -1,0 +1,162 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: fonte1;
+    src: url(Nexa-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: fonte2 ;
+    src: url(Nexa-Heavy.ttf);
+}
+
+body{
+
+    background-color: #f7dd8fd8;
+    
+}
+
+header{
+    background-image: linear-gradient(to bottom,rgb(68, 47, 24),rgb(44, 12, 7));
+    box-shadow: 1px 1px 8px rgb(75, 20, 11);
+}
+
+header audio{
+
+    width: 100%;
+
+}
+
+header h1 {
+    color: aliceblue;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-family: fonte2;
+    font-size: 50px;
+}
+
+header p{
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    font-family: fonte1;
+}
+
+nav{
+
+    padding-bottom: 20px;
+    padding-top: 10px;
+
+}
+
+nav a{
+    
+    text-decoration: none;
+    color: rgb(253, 253, 253);
+    padding: 15px;
+    transition: 0.4s;
+    font-weight: bold;
+
+}
+
+nav a:hover{
+
+    background-color: rgb(112, 88, 66);
+    color: #ffffff;
+    border-radius: 10px;
+
+}
+
+main{
+
+    background-color: #c99e76;
+    text-align: center;
+    min-width: 300px;
+    max-width: 1350px;
+    margin: auto;
+    text-align: justify;
+    padding: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 2px 2px 10px rgb(75, 20, 11);
+
+}
+
+main h2{
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font-family: fonte2;
+    font-size: 25px;
+    background-image: linear-gradient
+}
+
+main p{
+    padding-bottom: 15px;
+    font-size: 17px;
+    line-height: 1.5em;
+    font-family: fonte1;
+
+}
+
+main > picture > img{
+
+    width: 100%;    
+    box-shadow: 1px 2px 6px rgb(75, 20, 11);
+
+}
+
+section p{
+
+    padding-bottom: 70px;
+    text-align: justify;
+}
+
+div img{
+
+    width: 250px;
+}
+
+
+section .lista-pianista{
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    list-style: none;
+    
+}
+
+.lista-pianista div img{
+
+    border-radius: 20px;
+    box-shadow: 2px 3px 5px rgb(75, 20, 11);
+
+}
+
+section .lista-pianista  div  p{
+
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+footer{
+    background-image: linear-gradient(to bottom,rgb(100, 69, 33),rgb(73, 19, 11));
+
+    text-align: center;
+    padding: 5px;
+}
+
+footer > a{
+
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+
+}
+

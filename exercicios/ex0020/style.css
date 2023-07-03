@@ -1,0 +1,38 @@
+@charset "utf=8";
+
+body{
+    background-color: rgb(2, 190, 190);
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: chartreuse;
+}
+
+a:hover{
+    color: brown;
+    text-decoration: underline;
+}
+
+a:visited{
+    color: yellow
+}
+
+a:active{
+    color: blueviolet;
+}
+
+.aqui {
+    background-color: rgb(103, 103, 131);
+}
+
+a::after{
+
+    content:' ♫';
+}
+
+a::before{
+
+    content:'♫ ';
+}

@@ -1,0 +1,25 @@
+Para indentificar a largura 
+
+Padding 20px
+border-darius 10px
+
+Largura minima e máxima
+
+min-width: 280px
+max-width 800px
+
+Largura imagem
+
+width: 100%
+margin auto
+
+img 100%
+
+e no html, usar o picture, source midia max-width 600px, usar outra imagem para modificar nos dispositivos menores.
+
+imagem -
+
+picture ( criar source /  responsividade da imagem )
+Source midia max-width ( tamanho maximo da imagem selecionada )
+
+centralizar imagens pura, sem está em bloco ( display block; ) + margin: auto 

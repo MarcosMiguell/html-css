@@ -1,0 +1,37 @@
+- listas -
+
+ul - lista não ordenada
+ol - lista numerica  
+li - itens
+
+- lembretes rapidos - no css
+
+display inline-block - deixar em bloco na lateral
+
+display:none; - ocultar tesxto 
+
+text decoration: none; - tirar linha de baixo do nome 
+
+font-weight: bold; - fonte em negrito
+
+text-decoration: underline; - muda de cor ao passar o mouse
+
+
+- pseudo classes - no css
+
+hover - quando passar o mouse 
+visited - cor nos links visitados
+active - cor quando eu cliquei nele
+
+- pseudo elemento -
+
+Ex: a::before - antes 
+Ex: a::after - depois
+
+content 'desenho'; 
+
+
+
+
+
+ 

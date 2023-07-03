@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(3, 145, 145);
+    margin: 0px;
+    
+}
+
+header{
+    background-color: azure;
+    padding: 5px;
+    margin: 3px;
+    padding-bottom: 7px;
+
+    
+}
+
+h1, 
+#primeiro {
+    margin-left: 7px;
+}
+
+nav{
+    background-color: bisque;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 5px 3px 7px 1px rgba(0, 0, 0, 0.479) ; 
+
+}
+
+a{
+    text-decoration: none;
+    color: rgb(161, 8, 161);
+    margin-right: 30px;
+}
+
+main{
+    background-color: rgb(169, 125, 211);
+    padding: 2px;
+    margin: 3px;
+    border-radius: 10px;
+}
+
+#pontos{
+    background-color: rgb(112, 112, 112);
+    margin: 5px;
+    padding: 10px;
+}
+
+aside{
+    background-color: aquamarine;
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    text-align: center;  
+    padding: 4px;  
+}
+
+footer >p{
+    margin: 0px;
+}

@@ -1,0 +1,54 @@
+Header
+
+text-decoration: none; (tirar sublinhado da palavra)
+
+font-weight:bold; (negrito)
+
+min-height:200px;
+
+max-width: 100px; (fazer com que as linhas se quebrem)
+
+text-shadow:5px 5px 0px black; (sombreamento em palavras)
+
+font-weight:bold; (negrito)
+
+hover
+
+trasition-duration: 1s;
+
+Main
+
+margin: auto (Quando crescer, fica no meio)
+
+centralizar imagens pura, sem está em bloco ( display block; ) + margin: auto 
+
+box-shadow: (cor nas bordas, sombreamento em bloco)
+
+text-aling:center; (centralizar texto)
+
+Texto
+
+text-align: justify; (texto aliando, sem quebras no final)
+text-indent: 10px; (espaço na primeira linha do parágrafo)
+line-height: 1.5em; (espaço entre linhas  
+font-size: 17px; (tamanho da fonte)
+text-decoration: underline; (formato de link, linha em baixo quando passar o mouse)
+
+aside
+
+margin: -10px -10px 0px -10px;  (linha de fundo)
+border-radius: 10px 10px 0px 0px; (aredondamento em cima e na lateral)
+
+
+
+columns (coluna)
+list-style-position: inside; (bolinha da lista para dentro)
+
+
+
+
+
+
+
+
+

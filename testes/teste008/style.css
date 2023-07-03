@@ -1,0 +1,10 @@
+@charset "utf=8";
+
+body {
+    background-color: rgb(4, 170, 170);
+}
+
+header a{
+    border: solid;
+    
+}

@@ -1,0 +1,30 @@
+HTML
+
+Header (cabeçalho)
+footer (rodapé, proprietario)
+nav (lista de link)
+aside (conteudo relacionado)
+section (sessão)
+main (conteudo principal da pasta)
+div (divisão html)
+
+CSS (HEADER) CABEÇALHO
+
+* margin: 0 (margem da imagem)
+* padding: 0 (margem das palavras)
+windth (largura)
+list-style: none; (tirar bolinhas da ul)
+text-decoration: none; (tirar linha de baixo)
+display: flax; (itens do header flutuem)
+align-items: center; (alinhar itens no centro)
+justift-coutent: Space-around (justificar o conteudoem espaços) 
+
+header ul li + li (Regra, colocar os px se tiver outro li na frente dele)
+margin-left: 100px (ex) (margem entre itens) (empura o elemente que esta na esquerda)
+
+Mudar a cor quando passar o mouse
+
+A:hover
+color: (cor desejada)
+
+transition: color 0.3s; (suavizar a velocidade da cor ao passar o mouse)
